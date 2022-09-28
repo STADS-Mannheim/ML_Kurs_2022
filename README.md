@@ -1,1 +1,1 @@
-# ML_Kurs_2022
+# STADS Machine Learning Kurs HWS 2022
